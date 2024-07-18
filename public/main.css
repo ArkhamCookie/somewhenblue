@@ -19,6 +19,11 @@ main {
 	font-family: sans-serif;
 }
 
+/* Main Content Border */
+main {
+	background-color: lightgray;
+}
+
 /* Title Content */
 #profile-picture {
 	border-radius: 50%;
