@@ -1,0 +1,9 @@
+/* Title Content */
+#profile-picture {
+	border-radius: 50%;
+	height: 8.7em;
+}
+
+#name {
+	text-transform: uppercase;
+}
