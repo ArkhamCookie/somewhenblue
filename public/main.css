@@ -36,3 +36,9 @@ main {
 	margin-top: 0.5em;
 	margin-bottom: 0px;
 }
+
+/* Divider */
+.divider {
+	border-top: 1px dotted blue;
+	margin: 2em;
+}
