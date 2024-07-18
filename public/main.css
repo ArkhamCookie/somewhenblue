@@ -1,3 +1,24 @@
+/* Base CSS */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 1.2em;
+	margin: 0;
+	padding: 2em;
+	height: 100%;
+}
+main {
+	display: block;
+	max-width: 30em;
+	border-radius: 1em;
+	margin: 0 auto;
+	text-align: center;
+	padding: 2em;
+	font-family: sans-serif;
+}
+
 /* Title Content */
 #profile-picture {
 	border-radius: 50%;
