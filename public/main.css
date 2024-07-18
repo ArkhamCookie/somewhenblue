@@ -23,8 +23,11 @@ main {
 #profile-picture {
 	border-radius: 50%;
 	height: 8.7em;
+	border: solid;
 }
 
 #name {
 	text-transform: uppercase;
+	margin-top: 0.5em;
+	margin-bottom: 0px;
 }
