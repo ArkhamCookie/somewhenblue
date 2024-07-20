@@ -1,3 +1,14 @@
+/* CSS Variables */
+:root {
+	/* Frosted Color Palette */
+	--dark-gray: #2b3a3e;
+	--gray: #455768;
+	--light-gray: #748891;
+	--light-blue: #a6c7d5;
+	--alice-blue: #dcecf6;
+	--white: #e6e6e6;
+}
+
 /* Base CSS */
 * {
 	box-sizing: border-box;
