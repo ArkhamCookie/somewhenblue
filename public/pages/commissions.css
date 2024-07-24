@@ -1,0 +1,52 @@
+/* CSS Variables */
+:root {
+	/* Frosted Color Palette */
+	--dark-gray: #2b3a3e;
+	--gray: #455768;
+	--light-gray: #748891;
+	--light-blue: #a6c7d5;
+	--alice-blue: #dcecf6;
+	--white: #e6e6e6;
+}
+
+/* Base CSS */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 1.2em;
+	margin: 0;
+	padding: 2em;
+	height: 100%;
+	background-color: var(--white);
+}
+main {
+	display: block;
+	max-width: 30em;
+	border-radius: 1em;
+	margin: 0 auto;
+	text-align: center;
+	padding: 2em;
+	font-family: sans-serif;
+	/* color: var(--alice-blue); */
+}
+
+/* Divider */
+.divider {
+	border-top: 1px dotted var(--alice-blue);
+	margin: 2em;
+}
+
+/* Images */
+#commissions-open-image {
+	height: 15em;
+	width: max-content;
+}
+
+#commissions-half-body-gif {
+	height: 10em;
+	width: 12em;
+
+	border-radius: 50px;
+}
