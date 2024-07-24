@@ -54,3 +54,12 @@ main {
 
 	border-radius: 50px;
 }
+
+/* Lists General */
+ul {
+	padding-left: 0;
+}
+
+li {
+	margin-top: 1px;
+}
