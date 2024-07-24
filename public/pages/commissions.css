@@ -38,6 +38,11 @@ main {
 }
 
 /* Images */
+#commissions-open-image,
+#commissions-half-body-gif {
+	border: 2px solid var(--gray);
+}
+
 #commissions-open-image {
 	height: 15em;
 	width: max-content;
