@@ -81,7 +81,7 @@ main {
 }
 .links > li:hover,
 .links > li:focus {
-	background-color: var(--white);
+	background-color: var(--alice-blue);
 }
 
 .links > a {
