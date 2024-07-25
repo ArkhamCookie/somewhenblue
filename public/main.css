@@ -95,3 +95,17 @@ main {
 	vertical-align: -0.125em;
 	fill: var(--gray);
 }
+.contact-icons {
+	width: 2em;
+	height: 2em;
+	vertical-align: -0.125em;
+	fill: var(--gray);
+}
+
+/* Contact */
+.contact-container {
+	display: grid;
+	grid-template-columns: 1em 1fr 1fr 1em;
+	grid-template-areas:
+	". contact-discord contact-email .";
+}
