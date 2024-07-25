@@ -56,6 +56,38 @@ main {
 	margin: 2em;
 }
 
+/* Links */
+.links-container > ul {
+	padding-left: 0;
+	list-style: none;
+}
+.links-container > li {
+	line-height: 170%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* Link Buttons */
+.links > li {
+	background-color: var(--light-blue);
+
+	/* border: 3px soild var(--dark-gray); */
+	border-radius: 8px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: var(--dark-gray);
+
+	margin-bottom: 8px;
+}
+.links > li:hover,
+.links > li:focus {
+	background-color: var(--white);
+}
+
+.links > a {
+	text-decoration: none;
+}
+
 /* Icons */
 .icons {
 	width: 1em;
