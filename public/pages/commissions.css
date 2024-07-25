@@ -54,6 +54,14 @@ main {
 	border-radius: 50px;
 }
 
+/* Commission Types Section */
+.commission-types {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas:
+		". .";
+}
+
 /* Lists General */
 ul {
 	padding-left: 0;
