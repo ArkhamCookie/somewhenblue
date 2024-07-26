@@ -78,6 +78,9 @@ main {
 	border-color: var(--dark-gray);
 
 	margin-bottom: 8px;
+
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .links > li:hover,
 .links > li:focus {
