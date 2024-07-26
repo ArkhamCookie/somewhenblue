@@ -70,3 +70,16 @@ ul {
 li {
 	margin-top: 1px;
 }
+
+/* Commission Call to Action */
+.call-to-action {
+	font-size: xx-large;
+}
+
+.commission-button {
+	font-size: x-large;
+}
+
+.reply-note {
+	font-size: x-small;
+}
