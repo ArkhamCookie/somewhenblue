@@ -1,6 +1,6 @@
 # SomewhenBlue's Site
 
-The source code for SomewhenBlue art swap with [ArkhamCookie](https://arkhamcookie.com).
+The source code for [SomewhenBlue](https://ko-fi.com/somewhenblue) art swap with [ArkhamCookie](https://arkhamcookie.com).
 
 ## Licensing
 
