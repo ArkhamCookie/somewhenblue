@@ -87,7 +87,7 @@ main {
 	background-color: var(--alice-blue);
 }
 
-.links > a {
+.links > li > a {
 	text-decoration: none;
 }
 
