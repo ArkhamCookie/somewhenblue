@@ -39,7 +39,7 @@ main {
 /* Images */
 #commissions-open-image,
 #commissions-half-body-gif {
-	border: 2px solid var(--gray);
+	border: 2px solid black;
 }
 
 #commissions-open-image {
