@@ -112,3 +112,7 @@ main {
 	grid-template-areas:
 	". contact-discord contact-email .";
 }
+
+#footer {
+	font-size: 0.5em;
+}
